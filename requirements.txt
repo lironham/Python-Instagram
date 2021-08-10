@@ -1,0 +1,7 @@
+tkinter
+pymongo
+selenium
+time
+certifi
+os
+PIL
